@@ -17,7 +17,7 @@ Algunas decisiones relevantes:
 
 ## 📊 Dashboard
 
-**[Ver dashboard interactivo en Power BI](<iframe title="tablero_fintech_challenge_final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGIwM2I3MTEtNzMwOS00YTk3LWI2MGUtMjBiZGM5MzNjMTNjIiwidCI6IjEzNjhmZTVlLWMzNjAtNDI0ZC1iMjJiLTI3MGI0ZDc2ZjU0ZSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>)**
+**[Ver dashboard interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMGIwM2I3MTEtNzMwOS00YTk3LWI2MGUtMjBiZGM5MzNjMTNjIiwidCI6IjEzNjhmZTVlLWMzNjAtNDI0ZC1iMjJiLTI3MGI0ZDc2ZjU0ZSIsImMiOjR9)**
 
 El dashboard permite analizar cartera, evolución temporal, segmentación, condiciones financieras y calidad de datos.
 

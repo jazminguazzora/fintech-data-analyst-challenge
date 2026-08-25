@@ -17,7 +17,7 @@ Algunas decisiones relevantes:
 
 ## 📊 Dashboard
 
-**[Ver dashboard interactivo en Power BI](https://app.powerbi.com/groups/me/reports/b82505ea-aa5c-4392-b6c8-d2395edd06d1?ctid=1368fe5e-c360-424d-b22b-270b4d76f54e&pbi_source=linkShare&bookmarkGuid=c5c7c53c-ef14-499c-995e-de64394a307c)**
+**[Ver dashboard interactivo en Power BI]([https://app.powerbi.com/groups/me/reports/b82505ea-aa5c-4392-b6c8-d2395edd06d1?ctid=1368fe5e-c360-424d-b22b-270b4d76f54e&pbi_source=linkShare&bookmarkGuid=c5c7c53c-ef14-499c-995e-de64394a307c](https://app.powerbi.com/view?r=eyJrIjoiMGIwM2I3MTEtNzMwOS00YTk3LWI2MGUtMjBiZGM5MzNjMTNjIiwidCI6IjEzNjhmZTVlLWMzNjAtNDI0ZC1iMjJiLTI3MGI0ZDc2ZjU0ZSIsImMiOjR9)**
 
 El dashboard permite analizar cartera, evolución temporal, segmentación, condiciones financieras y calidad de datos.
 

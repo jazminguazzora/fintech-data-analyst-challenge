@@ -1,6 +1,10 @@
 # Fintech Lending Analytics — Data Analyst Challenge
 
-Challenge end-to-end desarrollado a partir de cinco fuentes de una fintech de préstamos personales. El proceso abarcó limpieza y normalización con **Python/pandas**, staging y modelado dimensional en **MySQL/SQL**, documentación del modelo y desarrollo de un dashboard interactivo en **Power BI**.
+Challenge end-to-end desarrollado a partir de cinco fuentes de una fintech de préstamos personales.
+
+El flujo de datos se implementó de punta a punta: las fuentes originales fueron perfiladas, limpiadas y normalizadas en **Python/pandas**; los DataFrames resultantes se cargaron en **MySQL** como tablas de staging mediante una conexión desde Python; sobre esa base se realizó en **SQL** la reconciliación de clientes y la construcción del modelo dimensional curado. Finalmente, **Power BI se conectó a la base MySQL** para consumir las tablas finales, construir la capa analítica y desarrollar el dashboard interactivo.
+
+**Flujo:** archivos raw → Python/pandas → MySQL (staging → modelo curado) → Power BI → Power BI Service
 
 ## 🔎 Metodología y decisiones
 
